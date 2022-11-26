@@ -1,0 +1,1 @@
+self.__RSC_CSS_MANIFEST={"__entry_css__":{"/Users/floriancohen-joly/Documents/GitHub/projet_next.js/app/page":["/Users/floriancohen-joly/Documents/GitHub/projet_next.js/styles/globals.css"]},"/Users/floriancohen-joly/Documents/GitHub/projet_next.js/app/layout.js":["/Users/floriancohen-joly/Documents/GitHub/projet_next.js/styles/globals.css"]}
